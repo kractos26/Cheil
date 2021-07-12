@@ -1,0 +1,16 @@
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.exe
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.deps.json
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.runtimeconfig.json
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.runtimeconfig.dev.json
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.dll
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\ref\MultiplosDe3.dll
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\bin\Debug\net5.0\MultiplosDe3.pdb
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.csprojAssemblyReference.cache
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.AssemblyInfoInputs.cache
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.AssemblyInfo.cs
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.dll
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\ref\MultiplosDe3.dll
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.pdb
+C:\Users\jaomoreno\source\repos\NumerosPrimos\MultiplosDe3\obj\Debug\net5.0\MultiplosDe3.genruntimeconfig.cache
