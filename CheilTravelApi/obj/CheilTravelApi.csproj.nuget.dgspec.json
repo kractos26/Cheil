@@ -1,0 +1,587 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\CheilTravelApi\\CheilTravelApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\CheilTravelApi\\CheilTravelApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\CheilTravelApi\\CheilTravelApi.csproj",
+        "projectName": "CheilTravelApi",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\CheilTravelApi\\CheilTravelApi.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\CheilTravelApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK": {
+              "target": "Package",
+              "version": "[2.3.55.2, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.OpenApi": {
+              "target": "Package",
+              "version": "[1.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj",
+        "projectName": "DataEntity",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj",
+        "projectName": "DataModelo",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj",
+        "projectName": "DataRepositorio",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj",
+        "projectName": "Dtos",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj",
+        "projectName": "Negocio",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj",
+        "projectName": "Transversal",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj",
+        "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj"
+              },
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

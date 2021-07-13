@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qP8y+NLOUHkTU1sBHgtkSXDjm00+4qb2chngffYIBmF0N2pwUvZVKQOaQyc+TF/sQMDAAy1G8UIBOi6kqoblDg==",
+  "dgSpecHash": "41q6ofskaE/Cu+azCj3ywnw5+o4ZyGkh+ijXcA6sfRD1RHafi1hLtmffMfi624xxtlqQv9nEqSBM3MpDJL+Pdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Negocio\\Negocio.csproj",
+  "projectFilePath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Negocio\\Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaomoreno\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\jaomoreno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

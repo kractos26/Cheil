@@ -10,3 +10,15 @@ C:\Users\jaomoreno\source\repos\NumerosPrimos\Dtos\obj\Debug\net5.0\Dtos.csproj.
 C:\Users\jaomoreno\source\repos\NumerosPrimos\Dtos\obj\Debug\net5.0\Dtos.dll
 C:\Users\jaomoreno\source\repos\NumerosPrimos\Dtos\obj\Debug\net5.0\ref\Dtos.dll
 C:\Users\jaomoreno\source\repos\NumerosPrimos\Dtos\obj\Debug\net5.0\Dtos.pdb
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\bin\Debug\net5.0\Dtos.deps.json
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\bin\Debug\net5.0\Dtos.dll
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\bin\Debug\net5.0\ref\Dtos.dll
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\bin\Debug\net5.0\Dtos.pdb
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.csprojAssemblyReference.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.AssemblyInfo.cs
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.dll
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\ref\Dtos.dll
+C:\Users\jaomoreno\Documents\GitHub\Cheil\Dtos\obj\Debug\net5.0\Dtos.pdb

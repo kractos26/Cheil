@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+E9oaXis/htJaYh5sJS/2r1YlJELNBGpYXs4zAjooLIkNvlwKfDmVuySOf9VJQjEteDJalMNOjEqpvkYfkTp4w==",
+  "dgSpecHash": "uSoEx3dT9DRzfFBsB5NOoUsqw4zNkm03RKlOLwIGXNSHsuqG/gJ5titXOOxPlMi8EzMPaZsnc76Wzmon65bipg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj",
+  "projectFilePath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaomoreno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jaomoreno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

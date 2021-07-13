@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/X1xjeYTPLtysk5pztMWsMPZEV4W0yOhNU57S5WdZLZa09tS9mrgO/tsBiEcOGjHqDGGBoaY9Gc2H+3atrHGw==",
+  "dgSpecHash": "QUn7iFo/J3UypxLhnHwFVluUKeE6AEVuJhDc2hGekI5ehnaANi+GgDi+mcTkjlq6Xmc5o1YaTbP6OOMHxuJ0vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Transversal\\Transversal.csproj",
+  "projectFilePath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Transversal\\Transversal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaomoreno\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\jaomoreno\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

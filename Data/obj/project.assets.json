@@ -5987,11 +5987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Data\\obj\\",
+      "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6008,14 +6008,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj": {
-              "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj"
+            "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+              "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
             },
-            "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj": {
-              "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj"
+            "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj": {
+              "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj"
             },
-            "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\DataRepositorio.csproj": {
-              "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\DataRepositorio.csproj"
+            "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj": {
+              "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj"
             }
           }
         }

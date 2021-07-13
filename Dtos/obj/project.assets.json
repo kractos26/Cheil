@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Dtos\\Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj",
       "projectName": "Dtos",
-      "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Dtos\\Dtos.csproj",
+      "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\Dtos.csproj",
       "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\Dtos\\obj\\",
+      "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",

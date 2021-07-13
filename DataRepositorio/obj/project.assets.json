@@ -5817,11 +5817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\DataRepositorio.csproj",
+      "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj",
       "projectName": "DataRepositorio",
-      "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\DataRepositorio.csproj",
+      "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj",
       "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\obj\\",
+      "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5838,8 +5838,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj": {
-              "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj"
+            "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+              "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
             }
           }
         }

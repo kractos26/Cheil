@@ -70,3 +70,11 @@ C:\Users\jaomoreno\source\repos\NumerosPrimos\CheilTravel\obj\Debug\net5.0\Cheil
 C:\Users\jaomoreno\source\repos\NumerosPrimos\CheilTravel\obj\Debug\net5.0\ref\CheilTravel.dll
 C:\Users\jaomoreno\source\repos\NumerosPrimos\CheilTravel\obj\Debug\net5.0\CheilTravel.pdb
 C:\Users\jaomoreno\source\repos\NumerosPrimos\CheilTravel\obj\Debug\net5.0\CheilTravel.genruntimeconfig.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.csprojAssemblyReference.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.AssemblyInfoInputs.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.AssemblyInfo.cs
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.csproj.CoreCompileInputs.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.RazorAssemblyInfo.cache
+C:\Users\jaomoreno\Documents\GitHub\Cheil\CheilTravel\obj\Debug\net5.0\CheilTravel.RazorAssemblyInfo.cs

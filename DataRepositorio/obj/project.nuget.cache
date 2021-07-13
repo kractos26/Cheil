@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kE7oxRmV63J7naUBM3+/+YR8FXCIvcowNco4f/f6/xRaQN/Qe5LDY2nbFwfWMdOGmBmPxs2krCYS1cIn0dmNUg==",
+  "dgSpecHash": "otF89gbyLMjN2Tu2COEFFkAqBgBRGjf5hM+fZONbePFU77bx7wjPcyu+fdMdjqRG/APu7zIPRrt4jybhKfRicw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataRepositorio\\DataRepositorio.csproj",
+  "projectFilePath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataRepositorio\\DataRepositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaomoreno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jaomoreno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

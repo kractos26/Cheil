@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj": {}
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj": {
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj",
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj",
         "projectName": "DataEntity",
-        "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj",
         "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\obj\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj": {
+    "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj",
+        "projectUniqueName": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj",
         "projectName": "DataModelo",
-        "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\DataModelo.csproj",
+        "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\DataModelo.csproj",
         "packagesPath": "C:\\Users\\jaomoreno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataModelo\\obj\\",
+        "outputPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataModelo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jaomoreno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj": {
-                "projectPath": "C:\\Users\\jaomoreno\\source\\repos\\NumerosPrimos\\DataEntity\\DataEntity.csproj"
+              "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj": {
+                "projectPath": "C:\\Users\\jaomoreno\\Documents\\GitHub\\Cheil\\DataEntity\\DataEntity.csproj"
               }
             }
           }
